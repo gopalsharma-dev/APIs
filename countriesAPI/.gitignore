@@ -1,0 +1,7 @@
+countriesAPI/*.pyc  
+countriesAPI/*~  
+countriesAPI/__pycache__  
+countriesAPI/myvenv  
+countriesAPI/db.sqlite3  
+countriesAPI/static  
+countriesAPI/.DS_Store
